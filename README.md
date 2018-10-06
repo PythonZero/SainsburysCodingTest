@@ -13,7 +13,7 @@ All files will be parsed to the required specifications, and have the file name,
 
 
 Additional (test) Files have been added, which allows for processing of multiple rows of data,
-* data with different naming conventions, i.e. Mon, TUe-Thu
+* data with different naming conventions, i.e. some_data,Mon TUe-Thu, Fri
 * Missing Dates (i.e. only Mon-Tue, Thu-Fri)
 * Missing Data (i.e. no value for Mon)
 
