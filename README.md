@@ -4,8 +4,8 @@ The parser will parse all CSV files found in the folder specified in the **confi
 
 Usage (any of):
 
-    python sbury
-    python sbury/__main__.py
+    >>> python sbury
+    >>> python sbury/__main__.py
 
 The default location is "tests/test_csvs"
 
@@ -22,7 +22,7 @@ Tests can be run with pytest:
 
     In your terminal, cd into the sbury directory and run:
     
-    >> python -m pytest
+    >>> python -m pytest
 
 
 
