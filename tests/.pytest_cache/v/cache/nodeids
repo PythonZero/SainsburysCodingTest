@@ -1,0 +1,11 @@
+[
+  "test_Parser.py::test_load_csv",
+  "test_Parser.py::test_lower_case_df_col_names",
+  "test_Parser.py::test_parse_days_that_the_dates_correctly_parsed[df0]",
+  "test_Parser.py::test_parse_days_that_the_dates_correctly_parsed[df1]",
+  "test_Parser.py::test_parse_days_that_the_dates_correctly_parsed[df2]",
+  "test_Parser.py::test_parse_days_that_the_dates_correctly_parsed[df3]",
+  "test_Parser.py::test_parse_dates_for_their_values",
+  "test_Parser.py::test_parse_df_values",
+  "test_Parser.py::test_keep_square_or_double"
+]
